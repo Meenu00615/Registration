@@ -85,21 +85,10 @@ This project is designed to be hosted on [Render](https://render.com/). Follow t
 
 The registration form application successfully captures user data and stores it in a MongoDB database. Validation mechanisms ensure the integrity of the data, providing a secure and user-friendly experience.
 
-![reg](https://github.com/varshakodati/Registration-form/assets/127124622/e1835255-7942-4db2-a871-c025b1d13ba9)
+![image](https://github.com/user-attachments/assets/2703d809-ab7b-4cfd-a548-db559b4fa721)
 
 
 ## Future Work:
-
-n future iterations, the project can be enhanced with the following features:
-
-User Authentication: Implement user authentication to secure user accounts.
-
-Profile Management: Allow users to manage their profiles and update information.
-
-Email Verification: Add an email verification step to enhance account security.
-
-Improved UI/UX: Enhance the user interface and experience for a more polished look and feel.
-
+Improved UI.
 Additional Form Fields: Expand the registration form with additional fields based on project requirements.
-
 Feel free to contribute to the project by opening issues or submitting pull requests. Your feedback and improvements are highly appreciated!
